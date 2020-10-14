@@ -1,0 +1,319 @@
+# Command environment
+
+#
+# Built-in
+#
+export ESY__ROOT_PACKAGE_CONFIG_PATH="/home/caayu/dev/reason/css-in-reason/esy.json"
+export SHELL='/bin/bash'
+export SESSION_MANAGER='local/polaris:@/tmp/.ICE-unix/1670,unix/polaris:/tmp/.ICE-unix/1670'
+export QT_ACCESSIBILITY='1'
+export COLORTERM='truecolor'
+export XDG_CONFIG_DIRS='/etc/xdg/xdg-ubuntu:/etc/xdg'
+export NVM_INC='/home/caayu/.nvm/versions/node/v12.18.4/include/node'
+export XDG_MENU_PREFIX='gnome-'
+export TERM_PROGRAM_VERSION='1.49.3'
+export GNOME_DESKTOP_SESSION_ID='this-is-deprecated'
+export APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL='true'
+export LANGUAGE='pt_BR:pt:en'
+export GNOME_SHELL_SESSION_MODE='ubuntu'
+export SSH_AUTH_SOCK='/run/user/1000/keyring/ssh'
+export XMODIFIERS='@im=ibus'
+export DESKTOP_SESSION='ubuntu'
+export SSH_AGENT_PID='1627'
+export GTK_MODULES='gail:atk-bridge'
+export PWD='/home/caayu/dev/reason/css-in-reason'
+export XDG_SESSION_DESKTOP='ubuntu'
+export LOGNAME='caayu'
+export XDG_SESSION_TYPE='x11'
+export GPG_AGENT_INFO='/run/user/1000/gnupg/S.gpg-agent:0:1'
+export XAUTHORITY='/run/user/1000/gdm/Xauthority'
+export VSCODE_GIT_ASKPASS_NODE='/usr/share/code/code'
+export GJS_DEBUG_TOPICS='JS ERROR;JS LOG'
+export WINDOWPATH='2'
+export HOME='/home/caayu'
+export USERNAME='caayu'
+export IM_CONFIG_PHASE='1'
+export LANG='pt_BR.UTF-8'
+export LS_COLORS='rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'
+export XDG_CURRENT_DESKTOP='Unity'
+export VTE_VERSION='6003'
+export GIT_ASKPASS='/usr/share/code/resources/app/extensions/git/dist/askpass.sh'
+export GNOME_TERMINAL_SCREEN='/org/gnome/Terminal/screen/d47b962b_25a0_4d34_a05c_30ba8b08ca54'
+export INVOCATION_ID='f569e534d8b346568d34816ca64777f0'
+export MANAGERPID='1454'
+export CHROME_DESKTOP='code-url-handler.desktop'
+export GJS_DEBUG_OUTPUT='stderr'
+export NVM_DIR='/home/caayu/.nvm'
+export LESSCLOSE='/usr/bin/lesspipe %s %s'
+export XDG_SESSION_CLASS='user'
+export TERM='xterm-256color'
+export ASDF_DIR='/home/caayu/.asdf'
+export LESSOPEN='| /usr/bin/lesspipe %s'
+export USER='caayu'
+export VSCODE_GIT_IPC_HANDLE='/run/user/1000/vscode-git-04b53da7ad.sock'
+export GNOME_TERMINAL_SERVICE=':1.326'
+export DISPLAY=':0'
+export SHLVL='2'
+export NVM_CD_FLAGS=''
+export QT_IM_MODULE='ibus'
+export XDG_RUNTIME_DIR='/run/user/1000'
+export VSCODE_GIT_ASKPASS_MAIN='/usr/share/code/resources/app/extensions/git/dist/askpass-main.js'
+export JOURNAL_STREAM='9:39264'
+export XDG_DATA_DIRS='/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'
+export PATH='/home/caayu/.asdf/shims:/home/caayu/.asdf/bin:/home/caayu/.nvm/versions/node/v12.18.4/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'
+export GDMSESSION='ubuntu'
+export ORIGINAL_XDG_CURRENT_DESKTOP='ubuntu:GNOME'
+export DBUS_SESSION_BUS_ADDRESS='unix:path=/run/user/1000/bus'
+export NVM_BIN='/home/caayu/.nvm/versions/node/v12.18.4/bin'
+export OLDPWD='/home/caayu/dev/reason'
+export TERM_PROGRAM='vscode'
+export _='/home/caayu/.nvm/versions/node/v12.18.4/bin/esy'
+export PATH="/home/caayu/dev/reason/css-in-reason/_esy/default/bin:$PATH"
+export cur__etc="/home/caayu/dev/reason/css-in-reason/_esy/default/store/i/css_in_reason-05d6ce87/etc"
+export cur__share="/home/caayu/dev/reason/css-in-reason/_esy/default/store/i/css_in_reason-05d6ce87/share"
+export cur__toplevel="/home/caayu/dev/reason/css-in-reason/_esy/default/store/i/css_in_reason-05d6ce87/toplevel"
+export cur__stublibs="/home/caayu/dev/reason/css-in-reason/_esy/default/store/i/css_in_reason-05d6ce87/stublibs"
+export cur__doc="/home/caayu/dev/reason/css-in-reason/_esy/default/store/i/css_in_reason-05d6ce87/doc"
+export cur__man="/home/caayu/dev/reason/css-in-reason/_esy/default/store/i/css_in_reason-05d6ce87/man"
+export cur__lib="/home/caayu/dev/reason/css-in-reason/_esy/default/store/i/css_in_reason-05d6ce87/lib"
+export cur__sbin="/home/caayu/dev/reason/css-in-reason/_esy/default/store/i/css_in_reason-05d6ce87/sbin"
+export cur__bin="/home/caayu/dev/reason/css-in-reason/_esy/default/store/i/css_in_reason-05d6ce87/bin"
+export cur__install="/home/caayu/dev/reason/css-in-reason/_esy/default/store/i/css_in_reason-05d6ce87"
+export cur__target_dir="/home/caayu/dev/reason/css-in-reason/_esy/default/store/b/css_in_reason-05d6ce87"
+export cur__original_root="/home/caayu/dev/reason/css-in-reason"
+export cur__root="/home/caayu/dev/reason/css-in-reason"
+export cur__dev="true"
+export cur__version="link-dev:./esy.json"
+export cur__name="css-in-reason"
+
+#
+# @opam/ocaml-secondary-compiler@opam:4.08.1-1@85df5d8f
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocaml_secondary_compiler-opam__c__4.08.1-1-46132a22/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocaml_secondary_compiler-opam__c__4.08.1-1-46132a22/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocaml_secondary_compiler-opam__c__4.08.1-1-46132a22/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocaml_secondary_compiler-opam__c__4.08.1-1-46132a22/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocaml_secondary_compiler-opam__c__4.08.1-1-46132a22/bin:$PATH"
+
+#
+# @opam/ppx_derivers@opam:1.2.1@ecf0aa45
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ppx__derivers-opam__c__1.2.1-99530f93/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ppx__derivers-opam__c__1.2.1-99530f93/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ppx__derivers-opam__c__1.2.1-99530f93/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ppx__derivers-opam__c__1.2.1-99530f93/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ppx__derivers-opam__c__1.2.1-99530f93/bin:$PATH"
+
+#
+# @opam/easy-format@opam:1.3.2@0484b3c4
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__easy_format-opam__c__1.3.2-936c52b3/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__easy_format-opam__c__1.3.2-936c52b3/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__easy_format-opam__c__1.3.2-936c52b3/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__easy_format-opam__c__1.3.2-936c52b3/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__easy_format-opam__c__1.3.2-936c52b3/bin:$PATH"
+
+#
+# @opam/cppo@opam:1.6.6@f4f83858
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__cppo-opam__c__1.6.6-f955537f/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__cppo-opam__c__1.6.6-f955537f/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__cppo-opam__c__1.6.6-f955537f/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__cppo-opam__c__1.6.6-f955537f/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__cppo-opam__c__1.6.6-f955537f/bin:$PATH"
+
+#
+# @opam/biniou@opam:1.2.1@d7570399
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__biniou-opam__c__1.2.1-638dd150/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__biniou-opam__c__1.2.1-638dd150/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__biniou-opam__c__1.2.1-638dd150/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__biniou-opam__c__1.2.1-638dd150/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__biniou-opam__c__1.2.1-638dd150/bin:$PATH"
+
+#
+# @opam/conf-m4@opam:1@3b2b148a
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__conf_m4-opam__c__1-75f0454e/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__conf_m4-opam__c__1-75f0454e/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__conf_m4-opam__c__1-75f0454e/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__conf_m4-opam__c__1-75f0454e/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__conf_m4-opam__c__1-75f0454e/bin:$PATH"
+
+#
+# @opam/menhirSdk@opam:20200624@2a05b5a7
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__menhirsdk-opam__c__20200624-473ab6cf/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__menhirsdk-opam__c__20200624-473ab6cf/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__menhirsdk-opam__c__20200624-473ab6cf/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__menhirsdk-opam__c__20200624-473ab6cf/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__menhirsdk-opam__c__20200624-473ab6cf/bin:$PATH"
+
+#
+# @opam/menhirLib@opam:20200624@8bdd2b0e
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__menhirlib-opam__c__20200624-23d285e3/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__menhirlib-opam__c__20200624-23d285e3/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__menhirlib-opam__c__20200624-23d285e3/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__menhirlib-opam__c__20200624-23d285e3/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__menhirlib-opam__c__20200624-23d285e3/bin:$PATH"
+
+#
+# @opam/ocamlfind-secondary@opam:1.8.1@1afa38b2
+#
+export OCAMLFIND_SECONDARY_PREFIX="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocamlfind_secondary-opam__c__1.8.1-b1c3ae5e"
+export OCAML_SECONDARY_COMPILER_PREFIX="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocaml_secondary_compiler-opam__c__4.08.1-1-46132a22"
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocamlfind_secondary-opam__c__1.8.1-b1c3ae5e/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocamlfind_secondary-opam__c__1.8.1-b1c3ae5e/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocamlfind_secondary-opam__c__1.8.1-b1c3ae5e/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocamlfind_secondary-opam__c__1.8.1-b1c3ae5e/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocamlfind_secondary-opam__c__1.8.1-b1c3ae5e/bin:$PATH"
+
+#
+# @opam/base-unix@opam:base@87d0b2eb
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__base_unix-opam__c__base-dc4b97fb/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__base_unix-opam__c__base-dc4b97fb/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__base_unix-opam__c__base-dc4b97fb/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__base_unix-opam__c__base-dc4b97fb/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__base_unix-opam__c__base-dc4b97fb/bin:$PATH"
+
+#
+# @opam/base-threads@opam:base@36803084
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__base_threads-opam__c__base-f93e1d7d/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__base_threads-opam__c__base-f93e1d7d/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__base_threads-opam__c__base-f93e1d7d/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__base_threads-opam__c__base-f93e1d7d/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__base_threads-opam__c__base-f93e1d7d/bin:$PATH"
+
+#
+# @opam/ocaml-migrate-parsetree@opam:1.7.3@dbcf3b47
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocaml_migrate_parsetree-opam__c__1.7.3-8c989b6d/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocaml_migrate_parsetree-opam__c__1.7.3-8c989b6d/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocaml_migrate_parsetree-opam__c__1.7.3-8c989b6d/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocaml_migrate_parsetree-opam__c__1.7.3-8c989b6d/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocaml_migrate_parsetree-opam__c__1.7.3-8c989b6d/bin:$PATH"
+
+#
+# @opam/merlin-extend@opam:0.6@404f814c
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__merlin_extend-opam__c__0.6-7f69fca5/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__merlin_extend-opam__c__0.6-7f69fca5/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__merlin_extend-opam__c__0.6-7f69fca5/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__merlin_extend-opam__c__0.6-7f69fca5/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__merlin_extend-opam__c__0.6-7f69fca5/bin:$PATH"
+
+#
+# @opam/fix@opam:20200131@0ecd2f01
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__fix-opam__c__20200131-5ada6b1f/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__fix-opam__c__20200131-5ada6b1f/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__fix-opam__c__20200131-5ada6b1f/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__fix-opam__c__20200131-5ada6b1f/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__fix-opam__c__20200131-5ada6b1f/bin:$PATH"
+
+#
+# @opam/yojson@opam:1.7.0@7056d985
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__yojson-opam__c__1.7.0-7b76f733/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__yojson-opam__c__1.7.0-7b76f733/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__yojson-opam__c__1.7.0-7b76f733/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__yojson-opam__c__1.7.0-7b76f733/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__yojson-opam__c__1.7.0-7b76f733/bin:$PATH"
+
+#
+# @opam/stdlib-shims@opam:0.1.0@8c116481
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__stdlib_shims-opam__c__0.1.0-8d7d2e5f/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__stdlib_shims-opam__c__0.1.0-8d7d2e5f/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__stdlib_shims-opam__c__0.1.0-8d7d2e5f/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__stdlib_shims-opam__c__0.1.0-8d7d2e5f/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__stdlib_shims-opam__c__0.1.0-8d7d2e5f/bin:$PATH"
+
+#
+# @opam/result@opam:1.5@6b753c82
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__result-opam__c__1.5-7986cb20/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__result-opam__c__1.5-7986cb20/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__result-opam__c__1.5-7986cb20/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__result-opam__c__1.5-7986cb20/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__result-opam__c__1.5-7986cb20/bin:$PATH"
+
+#
+# @opam/ppx_yojson_conv_lib@opam:v0.14.0@116b53d6
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ppx__yojson__conv__lib-opam__c__v0.14.0-64d19d9a/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ppx__yojson__conv__lib-opam__c__v0.14.0-64d19d9a/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ppx__yojson__conv__lib-opam__c__v0.14.0-64d19d9a/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ppx__yojson__conv__lib-opam__c__v0.14.0-64d19d9a/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ppx__yojson__conv__lib-opam__c__v0.14.0-64d19d9a/bin:$PATH"
+
+#
+# @opam/ocamlfind@opam:1.8.1@ff07b0f9
+#
+export OCAML_TOPLEVEL_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocamlfind-opam__c__1.8.1-c7edfb4b/toplevel"
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocamlfind-opam__c__1.8.1-c7edfb4b/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocamlfind-opam__c__1.8.1-c7edfb4b/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocamlfind-opam__c__1.8.1-c7edfb4b/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocamlfind-opam__c__1.8.1-c7edfb4b/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocamlfind-opam__c__1.8.1-c7edfb4b/bin:$PATH"
+
+#
+# @opam/menhir@opam:20200624@8629ff13
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__menhir-opam__c__20200624-8e6dc421/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__menhir-opam__c__20200624-8e6dc421/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__menhir-opam__c__20200624-8e6dc421/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__menhir-opam__c__20200624-8e6dc421/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__menhir-opam__c__20200624-8e6dc421/bin:$PATH"
+
+#
+# @opam/dune-build-info@opam:2.7.1@da03d61d
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__dune_build_info-opam__c__2.7.1-a88fffff/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__dune_build_info-opam__c__2.7.1-a88fffff/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__dune_build_info-opam__c__2.7.1-a88fffff/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__dune_build_info-opam__c__2.7.1-a88fffff/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__dune_build_info-opam__c__2.7.1-a88fffff/bin:$PATH"
+
+#
+# @opam/dune@opam:2.7.1@f5f493bc
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__dune-opam__c__2.7.1-190878fa/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__dune-opam__c__2.7.1-190878fa/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__dune-opam__c__2.7.1-190878fa/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__dune-opam__c__2.7.1-190878fa/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__dune-opam__c__2.7.1-190878fa/bin:$PATH"
+
+#
+# @opam/csexp@opam:1.3.2@5cea14af
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__csexp-opam__c__1.3.2-eb0f41b3/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__csexp-opam__c__1.3.2-eb0f41b3/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__csexp-opam__c__1.3.2-eb0f41b3/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__csexp-opam__c__1.3.2-eb0f41b3/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__csexp-opam__c__1.3.2-eb0f41b3/bin:$PATH"
+
+#
+# @esy-ocaml/substs@0.0.1@d41d8cd9
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/esy_ocaml__s__substs-0.0.1-ed6217b4/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/esy_ocaml__s__substs-0.0.1-ed6217b4/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/esy_ocaml__s__substs-0.0.1-ed6217b4/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/esy_ocaml__s__substs-0.0.1-ed6217b4/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/esy_ocaml__s__substs-0.0.1-ed6217b4/bin:$PATH"
+
+#
+# ocaml@4.6.1000@d41d8cd9
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/ocaml-4.6.1000-46ec027d/lib/ocaml/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/ocaml-4.6.1000-46ec027d/lib/ocaml:$CAML_LD_LIBRARY_PATH"
+export OCAMLLIB="/home/caayu/.esy/3____________________________________________________________________/i/ocaml-4.6.1000-46ec027d/lib/ocaml"
+export OCAML_TOPLEVEL_PATH="/home/caayu/.esy/3____________________________________________________________________/i/ocaml-4.6.1000-46ec027d/lib/ocaml"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/ocaml-4.6.1000-46ec027d/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/ocaml-4.6.1000-46ec027d/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/ocaml-4.6.1000-46ec027d/bin:$PATH"
+
+#
+# @opam/reason@opam:3.6.0@58adb39a
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__reason-opam__c__3.6.0-ab881177/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__reason-opam__c__3.6.0-ab881177/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__reason-opam__c__3.6.0-ab881177/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__reason-opam__c__3.6.0-ab881177/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__reason-opam__c__3.6.0-ab881177/bin:$PATH"
+
+#
+# @opam/ocaml-lsp-server@github:ocaml/ocaml-lsp:ocaml-lsp-server.opam#59c913849e39e26f7553632548e1840aa9ef7492@d41d8cd9
+#
+export CAML_LD_LIBRARY_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocaml_lsp_server-8cf2bc55/stublibs:/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocaml_lsp_server-8cf2bc55/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocaml_lsp_server-8cf2bc55/lib:$OCAMLPATH"
+export MAN_PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocaml_lsp_server-8cf2bc55/man:$MAN_PATH"
+export PATH="/home/caayu/.esy/3____________________________________________________________________/i/opam__s__ocaml_lsp_server-8cf2bc55/bin:$PATH"
+
+#
+# Built-in
+#
+export OCAMLFIND_LDCONF="ignore"
+export OCAMLFIND_DESTDIR="/home/caayu/dev/reason/css-in-reason/_esy/default/store/i/css_in_reason-05d6ce87/lib"
+export DUNE_BUILD_DIR="/home/caayu/dev/reason/css-in-reason/_esy/default/store/b/css_in_reason-05d6ce87"
+export DUNE_STORE_ORIG_SOURCE_DIR="true"
+export SHELL="env -i /bin/bash --norc --noprofile"
+export PATH="$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+export SHELL="/bin/bash"

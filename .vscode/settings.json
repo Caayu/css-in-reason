@@ -1,0 +1,6 @@
+{
+  "ocaml.sandbox": {
+    "kind": "esy",
+    "root": "/home/caayu/dev/reason/css-in-reason"
+  }
+}
